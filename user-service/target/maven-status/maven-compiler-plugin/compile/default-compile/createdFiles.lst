@@ -1,0 +1,6 @@
+com\jpmchase\tpm\userservice\entity\User.class
+com\jpmchase\tpm\userservice\service\UserService.class
+com\jpmchase\tpm\userservice\entity\Department.class
+com\jpmchase\tpm\userservice\controller\UserController.class
+com\jpmchase\tpm\userservice\service\UserServiceImpl.class
+com\jpmchase\tpm\userservice\UserServiceApplication.class
